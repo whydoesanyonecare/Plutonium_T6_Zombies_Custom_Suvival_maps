@@ -6,7 +6,7 @@ You are done.
 
 (original plutonium launcher updates all files when opened and this replaces "privategamelobby_project.lua" which is used to show CUSTOM SURVIVAL MAPS option in private game lobby.)
 
-IF YOU USED UPDATER LAUNCHER BY MISTAKE RUN "Install_survivals.bat" AGAIN.
+IF YOU USED UPDATER LAUNCHER TO UPDATE FILES OR BY MISTAKE RUN "Install_survivals.bat" AGAIN.
 
 "Start Plutonium without update.bat" opens "%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe" instead of the original laubcher which updates all files.
 
