@@ -1,6 +1,6 @@
 # Plutonium_T6_Zombies_Custom_Suvival_maps
 
-# This Project Adds "CUSTOM SURVIVAL MAPS" option to plutonium T6 Zombies private match lobby.
+# This Project Add "CUSTOM SURVIVAL MAPS" option to plutonium T6 Zombies private match lobby.
 
   TRANSIT CUSTOM SURVIVALS
   
