@@ -2,7 +2,7 @@
 
 # This Project Adds "CUSTOM SURVIVAL MAPS" option to plutonium private match lobby.
 
-  # TRANSIT CUSTOM SURVIVALS
+  TRANSIT CUSTOM SURVIVALS
   
     Nacht Der Untoten:
 
@@ -29,7 +29,7 @@
 
     - Small One Window Challenge
 
-  # MOB OF THE DEAD CUSTOM SURVIVALS
+  MOB OF THE DEAD CUSTOM SURVIVALS
 
     Rooftop:
 
