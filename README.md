@@ -15,7 +15,7 @@
 
     Diner:
 
-    - Find keys to pen Pack a Punch area
+    - Find keys to open Pack a Punch area
     - Shootable easter egg
 
     Bus Ride:
