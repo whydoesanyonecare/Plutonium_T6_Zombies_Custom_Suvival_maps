@@ -1,8 +1,8 @@
 # Plutonium_T6_Zombies_Custom_Suvival_maps
 
-#This Project Adds "CUSTOM SURVIVAL MAPS" option to plutonium private match lobby.
+# This Project Adds "CUSTOM SURVIVAL MAPS" option to plutonium private match lobby.
 
-  #TRANSIT CUSTOM SURVIVALS
+  # TRANSIT CUSTOM SURVIVALS
   
     Nacht Der Untoten:
 
@@ -29,7 +29,7 @@
 
     - Small One Window Challenge
 
-  #MOB OF THE DEAD CUSTOM SURVIVALS
+  # MOB OF THE DEAD CUSTOM SURVIVALS
 
     Rooftop:
 
