@@ -1,3 +1,5 @@
+Download the files if you have not already and extract them
+
 Run Install_survivals.bat file, this file makes needed folders and copies files to correct folder
 
 Next you can run "Start Plutonium without update.bat" file to open plutonium without removing needed files. 
