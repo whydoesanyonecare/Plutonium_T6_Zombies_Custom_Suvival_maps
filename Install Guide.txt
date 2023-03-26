@@ -15,3 +15,17 @@ IF YOU USED UPDATER LAUNCHER TO UPDATE FILES OR BY MISTAKE RUN "Install_survival
  Survival maps can be chosen by selecting map in MAP and then selecting CUSTOM SURVIVAL MAP.
 
  After selecting custom survival map you can use START MATCH to play.
+
+
+**ALTERNATIVE INSTALLION STYLE** (USE THIS IF OTHER ONE DID NOT WORK FOR YOU)
+
+ 
+copy **privategamelobby_project.lua** to ```%localappdata%\Plutonium\storage\t6\ui_mp\t6\menus``` 
+
+copy **scripts folder** to ```%localappdata%\Plutonium\storage\t6``` 
+
+after copying files you still need to use **"Start Plutonium without update.bat"** or locate ```"%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe"``` and use it to start plutonium without updating the client.
+
+**DELETING** 
+
+To uninstall this mod remove all scripts from your scripts folder.
