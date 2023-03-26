@@ -20,11 +20,11 @@ IF YOU USED UPDATER LAUNCHER TO UPDATE FILES OR BY MISTAKE RUN "Install_survival
 **ALTERNATIVE INSTALLION STYLE** (USE THIS IF OTHER ONE DID NOT WORK FOR YOU)
 
  
-copy **privategamelobby_project.lua** to ```%localappdata%\Plutonium\storage\t6\ui_mp\t6\menus``` 
+copy "privategamelobby_project.lua" to "%localappdata%\Plutonium\storage\t6\ui_mp\t6\menus"" 
 
-copy **scripts folder** to ```%localappdata%\Plutonium\storage\t6``` 
+copy "scripts" folder to "%localappdata%\Plutonium\storage\t6"
 
-after copying files you still need to use **"Start Plutonium without update.bat"** or locate ```"%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe"``` and use it to start plutonium without updating the client.
+after copying files you still need to use "Start Plutonium without update.bat" or locate "%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe" and use it to start plutonium without updating the client.
 
 **DELETING** 
 
