@@ -1,17 +1,21 @@
 There is few ways to install this mod. 
 
---------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 
-1st style. (Recommended)
+1st style. (EASIEST WAY)
 
-Use ModInstaller.exe and press install button to install the mod.
+Download and extract the zip file.
 
-After this press Launch plutonium without updating button to run plutonium launcher without deleting the mod.
+Use ModInstaller.exe and press "install" button to install the mod.
+
+After this press "Launch plutonium without updating" button to run plutonium launcher without deleting the mod.
+
+In private match you can select map.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-2nd style. (If first way doesnt work)
-
+2nd style. (If first way doesnt work) (this might not work for everyone)
+ 
 Run Install_survivals.bat file, this file makes needed folders and copies files to correct folder
 
 Next you can run "Start Plutonium without update.bat" file to open plutonium without removing needed files. 
