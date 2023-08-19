@@ -4,7 +4,7 @@ There is few ways to install this mod.
 
 1st style. (EASIEST WAY)
 
-Download and extract the zip file.
+Download and extract the zip file. > link = https://www.mediafire.com/file/nk39901etvpu545/Plutonium_T6_Zombies_Custom_Suvival_maps-1.0.1.zip/file
 
 Use ModInstaller.exe and press "install" button to install the mod.
 
