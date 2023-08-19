@@ -1,4 +1,16 @@
-Download the files if you have not already and extract them
+There is few ways to install this mod. 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+1st style. (Recommended)
+
+Use ModInstaller.exe and press install button to install the mod.
+
+After this press Launch plutonium without updating button to run plutonium launcher without deleting the mod.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+2nd style. (If first way doesnt work)
 
 Run Install_survivals.bat file, this file makes needed folders and copies files to correct folder
 
@@ -15,17 +27,3 @@ IF YOU USED UPDATER LAUNCHER TO UPDATE FILES OR BY MISTAKE RUN "Install_survival
  Survival maps can be chosen by selecting map in MAP and then selecting CUSTOM SURVIVAL MAP.
 
  After selecting custom survival map you can use START MATCH to play.
-
-
-**ALTERNATIVE INSTALLION STYLE** (USE THIS IF OTHER ONE DID NOT WORK FOR YOU)
-
- 
-copy "privategamelobby_project.lua" to "%localappdata%\Plutonium\storage\t6\ui_mp\t6\menus"" 
-
-copy "scripts" folder to "%localappdata%\Plutonium\storage\t6"
-
-after copying files you still need to use "Start Plutonium without update.bat" or locate "%localappdata%\Plutonium\bin\plutonium-launcher-win32.exe" and use it to start plutonium without updating the client.
-
-**DELETING** 
-
-To uninstall this mod remove all scripts from your scripts folder.
